@@ -1,0 +1,14 @@
+[
+  {
+    "tag_name": "v0.4.3-desktop.5",
+    "html_url": "https://github.com/khomsanp-testops/test-operations-portal/releases/tag/v0.4.3-desktop.5",
+    "body": "เปิดใช้การตรวจเวอร์ชันและแจ้งอัปเดตในแอป\nดาวน์โหลดผ่าน GitHub ของทีม แล้วออกจากแอปก่อนติดตั้งทับใน Applications\nข้อมูลและการตั้งค่าเดิมเก็บแยกจากตัวแอป\nสำหรับ Mac Apple Silicon",
+    "assets": [
+      {
+        "name": "TestOps-0.4.3-desktop.5-mac-arm64.dmg",
+        "size": 242784376,
+        "sha256": "5565dc6375644624364fe638869c156960e27bfcb7352d654e286be184e984a0"
+      }
+    ]
+  }
+]
